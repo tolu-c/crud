@@ -1,11 +1,12 @@
 # crud
+
 A simple crud api with django rest framework
 
-### Steps
+## Steps
 
 * Create a virtual Environment
-    * Windows - `python -m venv <nameOfVenv>`
-    * Windows - `python3 -m venv <nameOfVenv>`
+* Windows - `python -m venv <nameOfVenv>`
+* Windows - `python3 -m venv <nameOfVenv>`
 * Activate your virtual Environment - `. nameOfVenv/scripts/activate`
 * Install requirements - `pip install -r requirements.txt`
 * Run your server - `python manage.py runserver`
