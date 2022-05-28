@@ -14,3 +14,5 @@ A simple crud api with django rest framework
 * Make migrations - `python manage.py makemigrations`
 * Apply migrations - `python manage.py migrate`
 * The rest is for you to explore. :wink:
+
+readme
